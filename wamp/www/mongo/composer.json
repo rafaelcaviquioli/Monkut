@@ -1,0 +1,13 @@
+{
+    "authors": [
+        {
+            "name": "Rafael",
+            "email": "rafaelcitj@gmail.com"
+        }
+    ],
+    "require": {
+    },
+    "autoload": {
+        "psr-0": { "": "classes/" }
+    }
+}
